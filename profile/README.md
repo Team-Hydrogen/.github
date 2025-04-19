@@ -1,6 +1,6 @@
 # Team Hydrogen
 2025 NASA App Development Challenge Top Team<br>
-2025 NASA App Development Challenge Best Visualization of Orion Capsule<br>
+2025 NASA App Development Challenge Most Realistic Visualization of the Capsule<br>
 Artemis Student Challenge Innovation Award<br>
 
 ## Challenge Information
