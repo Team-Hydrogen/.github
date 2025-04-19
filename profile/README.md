@@ -1,7 +1,7 @@
 # Team Hydrogen
-2025 NASA App Development Challenge Top Team
-2025 NASA App Development Challenge Best Visualization of Orion Capsule
-Artemis Student Challenge Innovation Award
+2025 NASA App Development Challenge Top Team<br>
+2025 NASA App Development Challenge Best Visualization of Orion Capsule<br>
+Artemis Student Challenge Innovation Award<br>
 
 ## Challenge Information
 In the 2025 NASA App Development Challenge, high school teams have 10 weeks to create a video showcasing their application visualizing the flight path of Artemis II while indicating which of SCaN’s antennas are available to communicate with Earth in real-time.
